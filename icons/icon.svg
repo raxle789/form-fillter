@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <title>Form Filler</title>
+  <!-- Sumber icon. Palet mengikuti popup.html: --accent #0F5C43, --paper #ECEDE8, --signal #E8A33D -->
+  <rect width="128" height="128" rx="28.8" fill="#0F5C43"/>
+  <g fill="#ECEDE8">
+    <rect x="21.76" y="22.40" width="84.48" height="13.44" rx="6.72"/>
+    <rect x="21.76" y="45.44" width="84.48" height="13.44" rx="6.72"/>
+    <rect x="21.76" y="68.48" width="33.28" height="13.44" rx="6.72"/>
+  </g>
+  <!-- celah hijau supaya petir tidak menempel ke bar -->
+  <polygon fill="#0F5C43" points="90.78,49.92 54.40,92.16 76.98,92.16 70.71,120.32 112.10,76.67 88.27,76.67"/>
+  <polygon fill="#E8A33D" points="89.86,56.32 60.16,90.88 78.59,90.88 73.47,113.92 107.26,78.21 87.81,78.21"/>
+</svg>
